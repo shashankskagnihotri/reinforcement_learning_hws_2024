@@ -1,5 +1,5 @@
-# REINFORCEMENT LEARNING HWS 2024 Exercises
+# Reinforcement Learning [VÜ] (HWS 2024) Exercises
 
-Adapted From https://github.com/upb-lea/reinforcement_learning_course_materials
+Please refer the individual directories for the exercises. All exercises except Exercise 1 are due in 2 weeks, one after another.
 
-## Exercise 1: Markov Decision Processes
+## These Exercises are Adapted From https://github.com/upb-lea/reinforcement_learning_course_materials
